@@ -46,7 +46,6 @@ class UrlsController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def url_params
-      res = ActiveModelSerializers::Deserialization.jsonapi_parse(params)
-      res
+      ActiveModelSerializers::Deserialization.jsonapi_parse(params)
     end
 end

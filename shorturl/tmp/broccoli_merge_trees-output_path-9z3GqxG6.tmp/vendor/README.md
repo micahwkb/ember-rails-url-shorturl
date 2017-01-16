@@ -1,1 +1,0 @@
-/Users/micahbritton/projects/shorturl_ember_rails/shorturl/node_modules/qunitjs/README.md

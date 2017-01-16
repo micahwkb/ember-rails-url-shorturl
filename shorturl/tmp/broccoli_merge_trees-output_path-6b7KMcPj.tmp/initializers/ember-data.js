@@ -1,1 +1,0 @@
-/Users/micahbritton/projects/shorturl_ember_rails/shorturl/tmp/broccoli_merge_trees-input_base_path-yIheN0Tb.tmp/3/initializers/ember-data.js
